@@ -16,9 +16,9 @@ Discord: A sweet panda#8760
 
 **randomuser922** - Made the damage system:
 
-The page of the [damage system](https://github.com/randomuser922/player-health-editor-minecraft)
+The page of the [Damage System](https://github.com/randomuser922/player-health-editor-minecraft)
 
-Link to the [github profile page](https://github.com/randomuser922)
+Link to the [GitHub Profile Page](https://github.com/randomuser922)
 
 
 **nom_shpruk** - Bug Finder:
