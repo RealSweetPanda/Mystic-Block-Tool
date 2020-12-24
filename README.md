@@ -1,6 +1,6 @@
 # Mystic-Block-Tool
 This is a datapack that add mystic things but the biggest thing is mystic wands all of them create a invisible block that only players can go through with some features
-for more information move to the [wiki](Wiki)
+for more information move to the [wiki](wiki/home)
 
 
 
