@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#OB",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:golden_carrot"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
