@@ -28,6 +28,6 @@ Discord: nom_shpruk#5003
 
 
 ## Terms Of Use
-You are free to use and publish this datapack but you can't give yourself credit ob this and need to give Credit to everyone or to link this github page
+You are free to use and publish this datapack but you can't give yourself credit oכ this and need to give Credit to everyone or to link this github page
 Also you cant sell this datapack or earn money (Expect to Youtube Monetization or something like this)
 You are free to edit the datapack but you cannot remove things like credits
