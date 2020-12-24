@@ -8,9 +8,7 @@ for more information move to the wiki
 
 ## Credits
 **Sweet Panda** - Creator:
-
 Link to the [Youtube Page](https://www.youtube.com/channel/UCwGmKyLd7WoCUoDMjFgiePg)
-
 Discord: A sweet panda#8760
 
 
@@ -20,9 +18,7 @@ Discord: A sweet panda#8760
 
 
 **nom_shpruk** - Bug Finder:
-
 Reddit: u/nom_shpruk
-
 Discord: nom_shpruk#5003
 
 
