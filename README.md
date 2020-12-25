@@ -28,6 +28,14 @@ Reddit: u/nom_shpruk
 Discord: nom_shpruk#5003
 
 
+**Duck Studios** - Bug Finder:
+
+Discord: Duck Studios#1124
+
+Link to the [Youtube Page](https://www.youtube.com/channel/UCKphTxHuZ6taorAVsGhqs8A)
+
+
+
 
 ## Terms Of Use
 You are free to use and publish this datapack but you can't give yourself credit of this and need to give Credit to everyone or to link this github page
