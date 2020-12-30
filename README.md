@@ -21,19 +21,6 @@ The page of the [Damage System](https://github.com/randomuser922/player-health-e
 Link to the [GitHub Profile Page](https://github.com/randomuser922)
 
 
-**nom_shpruk** - Bug Finder:
-
-Reddit: u/nom_shpruk
-
-Discord: nom_shpruk#5003
-
-
-**Duck Studios** - Bug Finder:
-
-Discord: Duck Studios#1124
-
-Link to the [Youtube Page](https://www.youtube.com/channel/UCKphTxHuZ6taorAVsGhqs8A)
-
 
 
 
