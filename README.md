@@ -3,6 +3,7 @@ This is a datapack that add mystic things but the biggest thing is mystic wands 
 for more information move to the [wiki](https://github.com/hhuucckk588/Mystic-Block-Tool/wiki)
 
 
+We are searching for more developers if you want [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
